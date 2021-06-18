@@ -1,0 +1,149 @@
+body{
+  background-color:white;
+  background-color:#0022FF21;
+  }
+  h4{
+  color:#14B8D4;
+  text-decoration: none;
+  letter-spacing: -1px;
+  word-spacing: 2px;
+  margin-bottom:2px;
+  }
+  h5{
+    color:#14B8D4;
+    text-decoration:none;
+    letter-spacing:-1px;
+    word-spacing: 2px;
+    margin-top:5px;
+  }
+  h3{
+    color:#14B8D4;
+    opacity:0.5;
+    margin-left:8px;
+    margin-bottom:0px;
+    padding-bottom: 0px;
+    
+  }
+
+#hd1{
+  float:left;
+  margin-left:10px;
+  width:45%;
+}
+#hd2{
+  float:right;
+  width:52%;
+  height:100%;
+  margin-top:0px;
+}
+#hd2 ul{
+  margin-left:0px;
+}
+#hd2 ul li{
+  list-style:none;
+  float:left;
+  margin:5px;
+  margin-top:0px;
+}
+#hd2 ul li a{
+  text-decoration: none;
+  padding-right:5px;
+  padding-left:5px;
+  padding-bottom:0px;
+  margin-left:0px;
+  margin-bottom:50px;
+  opacity:0.6;
+  transition:0.3s;
+  color:#C9900E;
+}
+#hd2 ul li a:hover{
+  color:tomato;
+  text-decoration: underline;
+  transition:0.3s;
+  opacity:1;
+}
+#clear{
+  clear:both;
+}
+.hr1{
+  border:black 3px solid;
+  border-bottom:none;
+}
+.jim{
+  width:50%;
+  height:100%;
+  margin:0px auto;
+  padding:0px auto;
+  border:2px solid #12CCA8;
+  border-radius: 120px;
+  float:left;
+  margin-right:6px;
+  padding-top:0px;
+  margin-bottom:20px;
+}
+.a1{
+  margin-left:0px;
+  margin-bottom:5px;
+}
+.nam{
+  font-weight:bold;
+}
+#about{
+  padding:20px;
+  word-spacing:-0.5px;
+  letter-spacing: -0.5px;
+}
+hr{
+  border:.5px solid;
+  margin-left:5px;
+  margin-right:5px;
+}
+footer{
+  margin-top:150px;
+  margin-left:0px;
+  margin-bottom:0px;
+  margin-right:0px;
+  background:#535250;
+  height:90px;
+  text-align: center;
+  color:white;
+}
+#f{
+  opacity:0.5;
+}
+.cntc{
+  text-decoration:none;
+  color:#C9900E;
+  opacity:0.7;
+}
+.cntc:hover{
+  text-decoration:underline;
+  color:tomato;
+  transition: 0.5s;
+  opacity:1;
+}
+.id{
+  text-decoration:none;
+  color:#C9900E;
+  opacity: 0.7;
+}
+.id:hover{
+  text-decoration: underline;
+  color:#1FA538;
+  opacity:1;
+}
+.hm{
+  text-decoration:none;
+  color:#C9900E;
+}
+.hm:hover{
+  text-decoration: underline;
+  
+}
+.con{
+  margin:20px auto;
+  background-color:#79A8B8;
+  color:white;
+  padding:20px;
+  border-radius:20px;
+}
